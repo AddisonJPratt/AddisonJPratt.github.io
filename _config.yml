@@ -38,6 +38,11 @@ titles_from_headings:
 defaults:
   - scope:
       path: ""
-      type: post
     values:
-      tags: Other
+      image: https://github.com/AddisonJPratt/AddisonJPratt.github.io/blob/81cfc720a041a8455cce402f4ffaddf8131f953c/Screenshot%202024-09-30%20at%2010.50.21%E2%80%AFAM.png # Apply default site image
+  - scope:
+      path: ""
+      type: posts
+    values:
+      tags:
+        - Other # Add a default tag to all posts
