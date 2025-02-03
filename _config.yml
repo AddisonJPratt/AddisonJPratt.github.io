@@ -1,7 +1,6 @@
 title: "Addison's Blog"
 author: "Addison Pratt"
 description: "Take a ride with me on my learning journey through the ever changing world of Data Science." # This will show up in places like twitter, linkedin, etc, if you share your sites url as a post.
-profile_picture: "/assets/images/profile.png"
 # Email / Social media user names used by the minima theme:
 # All of these are optional and can be removed or commented out
 email: prattjds@gmail.com"
@@ -38,7 +37,7 @@ defaults:
   - scope:
       path: ""
     values:
-      image: "https://github.com/AddisonJPratt/AddisonJPratt.github.io/blob/81cfc720a041a8455cce402f4ffaddf8131f953c/Screenshot%202024-09-30%20at%2010.50.21%E2%80%AFAM.png?raw=true" # Apply default site image
+      image: "/assets/images/profile.png"
   - scope:
       path: ""
       type: posts
